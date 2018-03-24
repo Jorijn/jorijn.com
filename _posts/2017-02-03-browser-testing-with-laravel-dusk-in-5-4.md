@@ -115,7 +115,7 @@ $ php artisan dusk
 ​
 If everything is working you'll now see a Chrome window open up that executes all your method commands automatically. 
 ​
-![IMG_0060](/content/images/2017/07/IMG_0060.PNG)
+![IMG_0060](/content/images/2017/07/IMG_0060.png)
 ​
 ​
 ### Update

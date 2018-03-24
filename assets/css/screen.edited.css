@@ -10,7 +10,6 @@ production stylesheet in assets/built/screen.css
 
 /* 12. Pagination - Tools to let you flick between pages
 /* ---------------------------------------------------------- */
-
 /* The main wrapper for our pagination links */
 .pagination {
     position: relative;
@@ -114,4 +113,9 @@ production stylesheet in assets/built/screen.css
     background: #f4f8fb;
     border-radius: 100%;
     box-shadow: #f4f8fb 0 0 0 5px;
+}
+
+/* enforce width to 100% for all code blocks */
+div.highlighter-rouge {
+    width: 100%;
 }

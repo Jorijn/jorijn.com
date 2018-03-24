@@ -63,5 +63,5 @@ $ php artisan dusk
 
 If everything works, you'll see passed tests without any windows popping up on you.
  
-![IMG_0065](/content/images/2017/07/IMG_0065.PNG)
+![IMG_0065](/content/images/2017/07/IMG_0065.png)
 
