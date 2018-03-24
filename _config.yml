@@ -19,7 +19,7 @@ disqus: False
 disqus_shortname: False
 google_analytics: False
 permalink: /:title/
-plugins: [jekyll-paginate, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed, octopress-minify-html]
 feed:
   path: feed.xml
 kramdown:
