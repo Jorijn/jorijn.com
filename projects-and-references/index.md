@@ -7,7 +7,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-_Do you want to hire me or just want to know what technical skill set I have? You can download my [Curriculum Vitae (NL)](/static/cv.pdf) here._
+_Do you want to hire me or just want to know what technical skill set I have? You can download my [Curriculum Vitae (NL)](/assets/static/cv.pdf) here._
 ​
 Here is a selection of the most noteworthy clients I have had the pleasure to collaborate with. Feel free to browse to my [LinkedIn](https://nl.linkedin.com/in/jorijnschrijvershof) for additional information.
 ​
