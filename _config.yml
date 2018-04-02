@@ -10,6 +10,7 @@ logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 production_url: https://jorijn.com/
+url: https://jorijn.com
 source_url: https://github.com/jorijn/jorijn.com/
 navigation: True
 subscribers: False
@@ -19,7 +20,7 @@ disqus: False
 disqus_shortname: False
 google_analytics: False
 permalink: /:title/
-plugins: [jekyll-paginate, jekyll-feed, octopress-minify-html]
+plugins: [jekyll-paginate, jekyll-feed, octopress-minify-html, jekyll-last-modified-at, jekyll-sitemap]
 feed:
   path: feed.xml
 kramdown:

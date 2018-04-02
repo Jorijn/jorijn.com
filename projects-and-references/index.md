@@ -7,11 +7,12 @@ class: page-template
 subclass: 'post page'
 ---
 
-_Do you want to hire me or just want to know what technical skill set I have? You can download my [Curriculum Vitae (NL)](/assets/static/cv.pdf) here._
+_Do you want to hire me or just want to know what technical skill set I have? You can download my [Curriculum Vitae (NL)](/assets/files/cv.pdf) here._
 ​
 Here is a selection of the most noteworthy clients I have had the pleasure to collaborate with. Feel free to browse to my [LinkedIn](https://nl.linkedin.com/in/jorijnschrijvershof) for additional information.
 ​
-* [Medimo](http://medimo.nl) [^lajos] — Refactoring code to PHP 7.1 with Laravel 5.4 (coming from 4.2). `PHP` `Electronisch Patienten Dossier (NL)` `React Native` `Gulp` `ECMAScript 6` `Laravel 5`
+* [MijnOverheid](https://mijn.overheid.nl/) [^ordina] — Senior Symfony developer, focus on high availability, testing and API usage. `PHP` `Symfony2` `Behat` `REST` `SOAP`
+* [Medimo](http://medimo.nl) [^lajos] — Full-stack developer, implementing LSP (working with certificates, security & API's), refactoring code to PHP 7.1 with Laravel 5.4 (coming from 4.2). `PHP` `Electronisch Patienten Dossier (NL)` `React Native` `Gulp` `ECMAScript 6` `Laravel 5`
 * UWV [^ebrella] — werk.nl `UX` `HTML` `CSS` `WCAG2` `Government`
 * SBS Broadcasting [^lajos] — sbs6.nl, net5.nl, veronicatv.nl, kijk.nl, nlziet.kijk.nl `PHP` `Symfony2` `Video Streaming` `HTML` `CSS` `JavaScript` `Grunt`
 * [Nike](https://www.nike.com/) [^ebrella] — `PHP`
@@ -33,3 +34,4 @@ https://github.com/Jorijn
 [^dutchpancakes]: commissioned by [Dutch Pancakes](http://dutchpancakes.nl)
 [^twokings]: commissioned by [TwoKings](http://www.twokings.nl)
 [^charis]: commissioned by [Charis from I Make Websites](http://imakewebsites.nl)
+[^ordina]: commissioned by [Ordina](https://www.ordina.nl/)

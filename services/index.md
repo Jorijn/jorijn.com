@@ -20,7 +20,7 @@ Though I specialize in custom development, I do create, maintain and alter WordP
 ### Topics I care and know about
 `PHP` `Laravel` `Zend Framework` `MySQL` `MariaDB` `ExpressJS` `Performance` `Testing`
 
-_Visit my [Curriculum Vitae (NL)](/assets/static/cv.pdf) for more._
+_Visit my [Curriculum Vitae (NL)](/assets/files/cv.pdf) for more._
 
 ### More about
 * [Laravel Development](/freelance-laravel-developer)
