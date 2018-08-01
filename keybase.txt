@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/jorijn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jorijn.com
+  * I am jorijn (https://keybase.io/jorijn) on keybase.
+  * I have a public key with fingerprint 13F9 0A42 6631 54FE 4AFD  8479 8DD7 23EF 5249 0B24
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01013a7cb0e1ac2fa8b4fecb0bd58f6976c563754a09f95d53cef445f77ba7d492950a",
+      "fingerprint": "13f90a42663154fe4afd84798dd723ef52490b24",
+      "host": "keybase.io",
+      "key_id": "8dd723ef52490b24",
+      "kid": "01013a7cb0e1ac2fa8b4fecb0bd58f6976c563754a09f95d53cef445f77ba7d492950a",
+      "uid": "9267929cbc920df712eae07c17247c19",
+      "username": "jorijn"
+    },
+    "service": {
+      "hostname": "jorijn.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1530433631,
+  "expire_in": 157680000,
+  "prev": "2eb06be1e6ab157d651b93df92f8fbafd7bd78a2fec7fbc0432dcc78815e2393",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkntQVFUcx5dHiQwSSdE2DA5cNCRXuO8HhYwxQYhN6RgYZst9nLtcHnvX3RWX
+l2kaI7vBkroaxGMmUobGeAzJmFjARMSoZFhTUMKQAo6YK0zpBKJ2LpN/NNOf3T/O
+nfM93+/n/M7vnOoVfroAH/3a5RHK3qR5nws3BN0OtlooQQRVKkISSpA8sPQD+RKw
+2Y15ioQkICiGYgTPiAIKMF7EZZ4VSBnAqSBRrExzDC1SNMFQJI9yMkdJFCECmSQp
+mWEEnpFIDucolEcMiKyYTcBqsSpmO8RihMyhPInTNIFREEjyssSSDMdKEoMTQKZw
+kkMFnITBHNWmJWBxAm8DcYoKNTgxLpX3H/7/ue7dSzgOpxkoiYLI4agkMxgOeIAy
+IsbgJBw5zWgDVjNfAKA7V7UquWakzIBArVARgdZW7Rz/Wo8T1QKYs1hVuyqq+VDP
+sdsttgQtZy+yaMY9QDD+gzAKilmCPYSJQmC1KaoZScCgU7QrGhOjCJQkCNhOAwIc
+FsUKjIrmoBiaReGn7QMKIRIHAkoLAAM0/4YAlyWawgSOkGQOl1lZgPfACBLD8jjs
+FiMLIqTikigyLItRACc4AtFOtcusQjgLC+VNEGpTTGbevtsKkLLACl/CX+cToIsI
+i/IP70+qa/v01VWlfuroo4f3mK/26nSBy0MeKcrZEF3l94kj46Yz+/UB9yq9julU
+81TE6tSQq7kVNZ3Ghk3n6czmKH3OK5/cPqp3RvQlHH93zB1zsOC+Ujr18AidFTRz
+ekJ85mh/cGNY6+l+dPv69mNZUeNdv6TXzGQ0GH8ShoM8UysLU7Y+SzvTn3a6Vnmf
+jAucji+ejK7pyh8zSPsc0+2137TqNh5OCnae2zB5amPVRM8KJtT7hNg6fiyzfigu
+5Vu8tn6D8ify+f2KTW3yrws7R+fQwYXQoaLK72xER/KBgUI3V9ObGfjBqd7IobEL
+s1fKBzp/5h+MtL2XVh4cO0esrx0dVL0nPQ1vZd+Jv44d19/KeLnRu13fEtTrGSZ1
+l6aK89JS9/12xZ8vI6JaL2U+5ympe60g9ofQ8Unv0IQ9on9d2sloxxC588iL1f6L
+fjUndrkrU7KHDYm3Q/f4HHYtcwU45lNjPvvyQfe5lHDX/uq4tuTfH180XYw3eLrD
+D1RG3nj+IO5a+WHPHz4xHRcbtzWH7vBrceQXdNy9abxzyF2e38S/02Q6k9N5uWn+
+/F31GheWGJW8hcq1xE5jpS8tNPt+1JLS8xTpaL+1te6s61rZ11V1q0OuBvQ5q6KH
+X896+7JS/fGs52HVvb1NOdndfW/ezA5zN3/VdaL3hRnT9cXBMrpvWZZxzUjklv7Z
+wdqqufSMtdved0f/6KndPPBXMTO+rv6L4r8B
+=Rvrd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jorijn
+
+==================================================================
+
