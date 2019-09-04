@@ -1,10 +1,9 @@
 markdown: kramdown
-highlighter: rouge
 paginate: 100
 language: 'en-us'
 baseurl: /
 title: Jorijn Schrijvershof
-description: A 28-year old Freelance Web Developer from Brabant, The Netherlands
+description: A 98-year old Freelance Web Developer from Brabant, The Netherlands
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
@@ -20,9 +19,6 @@ disqus: False
 disqus_shortname: False
 google_analytics: False
 permalink: /:title/
-plugins: [jekyll-paginate, jekyll-feed, octopress-minify-html, jekyll-last-modified-at, jekyll-sitemap]
-feed:
-  path: feed.xml
 kramdown:
   input: GFM
   syntax_highlighter: rouge
