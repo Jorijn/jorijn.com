@@ -1,13 +1,10 @@
-.PHONY: build serve push clean
+.PHONY: build serve clean
 
 build: clean
-	docker run -p 4001:4000 --rm --volume="$(CURDIR):/srv/jekyll" -it jekyll/jekyll:latest jekyll b
+	docker run --rm --volume="$(CURDIR):/srv/jekyll" -it jekyll/jekyll:latest jekyll b
 
 serve: clean
-	docker run -p 4001:4000 --rm --volume="$(CURDIR):/srv/jekyll" -it jekyll/jekyll:latest jekyll s
-
-push: clean build
-	rsync -uav _site/ jorijn@dominus.jorijn.com:~/public_html/ --delete
+	docker run -p 4001:4001 --rm --volume="$(CURDIR):/srv/jekyll" -it jekyll/jekyll:latest jekyll s -P4001
 
 clean:
 	$(RM) -r _site/

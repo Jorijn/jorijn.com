@@ -1,14 +1,8 @@
 ---
 layout: post
-current: post
-cover: assets/images/covers/laravel-5-4-specified-key-was-too-long-error.jpg
-navigation: True
 title: "Laravel 5.4: Specified key was too long error"
 date: 2017-02-03 14:00:00
-tags: laravel
-class: post-template
-subclass: 'post tag-laravel'
-author: jorijn
+author: Jorijn Schrijvershof
 ---
 
 Since version 5.4 Laravel now uses MySQL character set `utf8mb4` by default. This brings support for emojis! ✅

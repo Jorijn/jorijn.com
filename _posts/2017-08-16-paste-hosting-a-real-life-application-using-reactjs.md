@@ -1,14 +1,8 @@
 ---
 layout: post
-current: post
-cover: assets/images/covers/paste-hosting-a-real-life-application-using-reactjs.jpg
-navigation: True
 title: "paste.hosting: A real life application using ReactJS"
 date: 2017-08-16 16:41:00
-tags: reactjs
-class: post-template
-subclass: 'post tag-reactjs'
-author: jorijn
+author: Jorijn Schrijvershof
 ---
 
 During my journey on learning React, I wanted to create a real life application to try some popular technologies. The idea was born, my goal would to be to create worlds most overkill application to host simple code snippets. Although the application itself does not contain many features, it’s built using:

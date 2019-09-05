@@ -1,14 +1,8 @@
 ---
 layout: post
-current: post
-cover: assets/images/covers/browser-testing-with-laravel-dusk-in-5-4.jpg
-navigation: True
 title: Browser Testing with Laravel Dusk in 5.4
 date: 2017-02-03 16:41:00
-tags: laravel
-class: post-template
-subclass: 'post tag-laravel'
-author: jorijn
+author: Jorijn Schrijvershof
 ---
 
 [Dusk](https://laravel.com/docs/5.4/dusk) is a new component in the newly released Laravel 5.4. It simplifies the way us developers can create acceptance tests, better known as browser testing.

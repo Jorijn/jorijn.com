@@ -1,14 +1,8 @@
 ---
 layout: post
-current: post
-cover: assets/images/covers/browser-testing-met-laravel-dusk-deel-2-phantomjs.jpg
-navigation: True
 title: "Browser Testing met Laravel Dusk: Deel 2 - PhantomJS"
 date: 2017-03-15 16:41:00
-tags: laravel
-class: post-template
-subclass: 'post tag-laravel'
-author: jorijn
+author: Jorijn Schrijvershof
 ---
 
 In the previous part [I wrote](/browser-testing-with-laravel-dusk-in-5-4/) how you can implement Browser Testing with Laravel Dusk (5.4+). By default Laravel uses the Chrome Driver but the disadvantage is that when you execute these tests, Chrome has to be installed and actively pops up.

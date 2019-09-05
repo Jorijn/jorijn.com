@@ -1,24 +1,21 @@
-markdown: kramdown
-paginate: 100
-language: 'en-us'
-baseurl: /
 title: Jorijn Schrijvershof
-description: A 98-year old Freelance Web Developer from Brabant, The Netherlands
-cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
-production_url: https://jorijn.com/
-url: https://jorijn.com/
-source_url: https://github.com/jorijn/jorijn.com/
-navigation: True
-subscribers: False
-twitter: jorijn
-facebook: jorijnschrijvershof
-disqus: False
-disqus_shortname: False
-google_analytics: False
+author: Jorijn Schrijvershof
+email: jorijn@jorijn.com
+url: https://jorijn.com
+description: A 29-year old Freelance Web Developer from Brabant, The Netherlands
+show_excerpts: false
 permalink: /:title/
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+
+moving:
+  avatar_url: "https://avatars1.githubusercontent.com/u/85466" # avatar in about page
+  about_you: A 29-year old Freelance Web Developer from Brabant, The Netherlands
+  date_format: "%b %d"
+  back_to: "Home"
+
+  social_links:
+    twitter: jorijn
+    github: jorijn
+    rss: RSS
+    facebook: jschrijvershof
+    linkedin: jorijnschrijvershof
+    telegram: jorijn
