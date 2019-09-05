@@ -23,7 +23,7 @@ _Visit my [Curriculum Vitae (NL)](/assets/files/cv.pdf) for more._
 * [Wordpress Development](/freelance-wordpress-developer)
 
 ## Interim Teamplayer
-If you positioned in The Netherlands, you could hire me to consult and develop on your location. I work solo as well as in a team. Using tools as JIRA or [ActiveCollab](https://activecollab.com) I document my progress with SCRUM or KANBAN systems. 
+If you are positioned in The Netherlands, you could hire me to consult and develop on your location. I work solo as well as in a team. Using tools as JIRA or [ActiveCollab](https://activecollab.com) I document my progress with SCRUM or KANBAN systems. 
 
 ## What I don't do
 Please don't contact me about working for equity or participating on your payroll.
