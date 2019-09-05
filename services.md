@@ -1,10 +1,6 @@
 ---
 layout: page
-current: services
 title: Services
-navigation: true
-class: page-template
-subclass: 'post page'
 ---
 
 ## 🔥 Front-end Developer

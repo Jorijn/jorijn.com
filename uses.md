@@ -1,10 +1,6 @@
 ---
 layout: page
-current: uses
 title: Uses
-navigation: true
-class: page-template
-subclass: 'post page'
 ---
 
 ⚡ People working in the IT are only as powerful as the tools they use for their job. I love to learn from others and improve my own workflow. This page serves as a living document of the things I use every day.

@@ -1,10 +1,6 @@
 ---
 layout: page
-current: contact
 title: Contact
-navigation: true
-class: page-template
-subclass: 'post page'
 ---
 
 ## Address
@@ -16,7 +12,7 @@ Ridderstraat 117<br>
 Dutch Chambre of Commerce Number: 54726956<br>
 D-U-N-S Number: 490451844<br>
 Tax ID: NL200341352B01<br>
-IBAN: NL61BUNQ2206100037
+IBAN: NL98ABNA0831767782
 
 ## Contact
 Phone: [+31 (0)616666481](tel:+31616666481)<br>
